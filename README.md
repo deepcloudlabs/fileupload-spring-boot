@@ -2,6 +2,8 @@
 
 Open a web browser and connect to http://localhost:9000/files
 
-Then select the file to upload
+![Open a web browser](file-upload01.png?raw=true "Open a web browser and connect to http://localhost:9000/files")
 
-Finally, submit the file
+Then select the file to upload.
+
+Finally, submit the file.
